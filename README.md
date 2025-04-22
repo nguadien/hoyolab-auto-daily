@@ -151,7 +151,6 @@ You may use Discord webhook to send notifications to your channel!
 6. You may trigger the check in manually and see if the messages got sent
 
 ## FAQ
-
 ### Is this safe?
 
 There should be no issues, automated check-in exists for years and there hasn't been any reports about hoyo doing anything against it
